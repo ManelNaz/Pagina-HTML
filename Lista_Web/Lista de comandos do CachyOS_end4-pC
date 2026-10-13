@@ -1,0 +1,92 @@
+Abaixo está a lista dos atalhos configurados no Hyprland.
+Super é a tecla Windows/Meta.
+O QS está ativo; algumas ações têm um comando alternativo usado apenas se o QS não responder.
+Shell e QS
+Atalho	Ação
+Super + Super esquerdo/direito	Abre a busca do QS; usa o Fuzzel como alternativa se o QS não responder.
+Super esquerdo/direito sozinho	Ativa o seletor de espaços de trabalho por número enquanto a tecla é pressionada.
+Super + Tab	Abre/fecha a visão geral dos espaços de trabalho.
+Super + V	Abre o histórico da área de transferência.
+Super + .	Abre o seletor de emoji; com o QS indisponível, copia um emoji pelo Fuzzel.
+Super + A, Super + B ou Super + O	Abre/fecha a barra lateral esquerda.
+Super + Alt + A	Abre a barra lateral esquerda separada.
+Super + N	Abre/fecha a barra lateral direita.
+Super + /	Abre/fecha a folha de referência de atalhos do QS.
+Super + K	Abre/fecha o teclado virtual.
+Super + M	Abre/fecha os controles de mídia.
+Super + G	Abre/fecha a sobreposição de widgets.
+Ctrl + Alt + Delete	Abre o menu de sessão do QS; se ele não responder, tenta abrir o wlogout.
+Super + J	Mostra/oculta a barra.
+Ctrl + Super + T	Abre o seletor de papel de parede; se o QS não responder, executa o alternador de cores/papel de parede.
+Ctrl + Super + Alt + T	Escolhe um papel de parede aleatório.
+Ctrl + Super + Shift + D	Alterna entre tema claro e escuro.
+Ctrl + Super + R	Reinicia o QS e os widgets.
+Ctrl + Super + P	Alterna a família visual do painel.
+Shift + Super + Alt + /	Abre a tela de boas-vindas do QS.
+Captura, gravação e utilitários
+Atalho	Ação
+Super + Shift + S	Seleciona uma região da tela para captura.
+Super + Shift + A	Pesquisa uma região selecionada com o Google Lens.
+Super + Shift + X	Reconhece texto na tela (OCR) e copia o resultado.
+Super + Shift + T	Traduz o conteúdo da tela.
+Super + Shift + C	Seleciona uma cor na tela e copia o código hexadecimal.
+Super + Shift + R	Grava uma região sem áudio.
+Super + Alt + R	Também inicia a gravação de uma região.
+Ctrl + Alt + R	Grava a tela inteira.
+Super + Shift + Alt + R	Grava a tela inteira com áudio.
+Print	Captura a tela do monitor ativo e copia a imagem.
+Ctrl + Print	Salva uma captura em Imagens/Screenshots e também a copia.
+Super + Shift + Alt + botão direito do mouse	Executa um resumo por IA do texto selecionado; requer um modelo Ollama ativo.
+Zoom e mídia
+Atalho	Ação
+Super + −	Diminui o zoom do cursor.
+Super + =	Aumenta o zoom do cursor.
+Super + Shift + N	Avança para a próxima faixa.
+Super + Shift + B	Volta para a faixa anterior.
+Super + Shift + P	Reproduz/pausa a mídia.
+Super + Shift + M	Silencia/ativa a saída de áudio.
+Super + Alt + M	Silencia/ativa o microfone.
+Teclas multimídia de volume, brilho e reprodução	Ajustam o volume, o brilho e a reprodução; as teclas de volume usam a saída padrão atualmente selecionada.
+Janelas
+Atalho	Ação
+Super + ← / → / ↑ / ↓	Move o foco para a janela naquela direção.
+Super + Shift + ← / → / ↑ / ↓	Move a janela naquela direção.
+Super + botão esquerdo do mouse	Arrasta a janela.
+Super + botão direito do mouse	Redimensiona a janela.
+Super + Q	Fecha a janela ativa.
+Super + Shift + Alt + Q	Encerra à força a janela sob o cursor.
+Alt + F4	Mostra uma notificação indicando o atalho de fechar recomendado: Super + Q.
+Super + ; / '	Ajusta a proporção da divisão entre janelas.
+Super + Alt + Espaço	Alterna a janela entre flutuante e lado a lado.
+Super + D	Maximiza/restaura a janela.
+Super + F	Alterna tela cheia.
+Super + Alt + F	Alterna um modo especial de tela cheia (“fullscreen spoof”).
+Super + P	Fixa/desafixa a janela.
+Espaços de trabalho
+Atalho	Ação
+Super + 1–9 ou Super + 0	Muda para o espaço de trabalho 1–10. O 0 corresponde ao 10.
+Ctrl + Super + ← / →	Muda para o espaço de trabalho anterior/próximo.
+Super + Page Up / Page Down	Navega entre espaços de trabalho.
+Super + rolagem do mouse	Navega entre espaços de trabalho.
+Super + Alt + 1–9 / 0	Move a janela ativa para o espaço de trabalho 1–10.
+Super + Shift + Page Up / Page Down	Move a janela para o espaço de trabalho anterior/próximo.
+Super + S ou Ctrl + Super + S	Abre/fecha o espaço especial (scratchpad).
+Super + Alt + S	Envia a janela ativa para o scratchpad.
+Ctrl + Super + [ / ]	Muda para um espaço de trabalho adjacente.
+Ctrl + Super + ↑ / ↓	Navega em saltos de cinco espaços de trabalho.
+Sessão e aplicativos
+Atalho	Ação
+Super + L	Bloqueia a sessão.
+Super + Shift + L	Suspende o computador.
+Super + Return ou Super + T	Abre o terminal.
+Ctrl + Alt + T	Também abre o terminal.
+Super + E	Abre o gerenciador de arquivos.
+Super + W	Abre o navegador.
+Super + C	Abre o editor de código.
+Ctrl + Super + Shift + Alt + W	Abre o pacote de escritório.
+Super + X	Abre o editor de texto.
+Ctrl + Super + V	Abre o mixer de volume, onde você pode escolher a saída HDMI ou Bluetooth.
+Super + I	Abre as configurações do sistema.
+Ctrl + Shift + Esc	Abre o gerenciador de tarefas.
+Ctrl + Super + Alt + /	Abre o arquivo de atalhos personalizados para edição.
+Ctrl + Shift + Alt + Super + Delete	Desliga o computador.
